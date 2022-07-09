@@ -89,7 +89,6 @@ body {
 .hero-button {
   color: var(--color-text-white);
   background-color: var(--color-text-accent);
-  font-family: var(--font-page);
   font-weight: 700;
   font-size: 16px;
   line-height: 1.88;
@@ -185,9 +184,7 @@ body {
 }
 
 .switch-btn {
-  color: var(--color-text-blacklight);
   background-color: var(--color-main-bgn);
-  font-family: var(--font-page);
   font-weight: 500;
   font-size: 16px;
   line-height: 1.63;
